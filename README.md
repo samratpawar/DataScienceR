@@ -1,2 +1,2 @@
-# DataScienceR
+# DataScience
 Welcome
